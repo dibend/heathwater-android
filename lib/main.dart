@@ -11,7 +11,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Hello World',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.orange,
+        brightness: Brightness.dark,
       ),
       home: MyHomePage(title: 'Heathwater Investment Research Tools'),
     );
