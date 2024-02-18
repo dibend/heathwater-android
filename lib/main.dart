@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.orange,
         brightness: Brightness.dark,
       ),
-      home: MyHomePage(title: 'Heathwater Investment Research Tools'),
+      home: MyHomePage(title: 'Heathwater Investing'),
     );
   }
 }
